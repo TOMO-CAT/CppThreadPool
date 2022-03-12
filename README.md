@@ -902,7 +902,7 @@ Info: thread 139897949906688 quit
 Info: thread 139898184902400 quit
 ```
 
-## C++03特性的ThreadPool
+## C++风格ThreadPool
 
 #### 1. 基于条件变量的线程池
 
