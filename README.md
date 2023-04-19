@@ -1242,9 +1242,9 @@ Info: thread[140349341824768] exit
 
 threadpool.h：
 
-> 参考自：https://github.com/progschj/ThreadPool/blob/master/ThreadPool.h
+> 参考自：<https://github.com/progschj/ThreadPool/blob/master/ThreadPool.h>
 >
-> 另外一种实现：https://github.com/mtrebi/thread-pool/blob/master/include/ThreadPool.h
+> 另外一种实现：<https://github.com/mtrebi/thread-pool/blob/master/include/ThreadPool.h>
 
 ```c++
 #ifndef THREAD_POOL_H
@@ -1612,10 +1612,10 @@ Info: thread 139811145910016 is working on task 28
 
 ## Reference
 
-[1] https://www.cnblogs.com/ailumiyana/p/10016965.html
+[1] <https://www.cnblogs.com/ailumiyana/p/10016965.html>
 
-[2] https://github.com/progschj/ThreadPool/blob/master/ThreadPool.h
+[2] <https://github.com/progschj/ThreadPool/blob/master/ThreadPool.h>
 
-[3] https://blog.csdn.net/qq_34771252/article/details/90319537
+[3] <https://blog.csdn.net/qq_34771252/article/details/90319537>
 
-[4] https://github.com/lizhenghn123/zl_threadpool/tree/master/ThreadPoolCpp03
+[4] <https://github.com/lizhenghn123/zl_threadpool/tree/master/ThreadPoolCpp03>

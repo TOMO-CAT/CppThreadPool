@@ -1,8 +1,9 @@
 build:
-	g++ -g test.cpp -o test -std=c++11 -lpthread
+	mkdir -p output
+	g++ -g test.cpp -o output/test -std=c++11 -lpthread
 
 run:
-	./test
+	./output/test
 
 clean:
-	rm -rf ./test
+	rm -rf ./output
